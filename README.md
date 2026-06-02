@@ -12,7 +12,7 @@ O objetivo foi criar um sistema bancário simples para praticar **Java**, lógic
 
 ## Tecnologias utilizadas
 
-- Java 11+
+- Java 25+
 - Scanner (para entrada de dados)
 - Estruturas condicionais (`if`, `else`, `switch`)
 - Loops (`while`)
